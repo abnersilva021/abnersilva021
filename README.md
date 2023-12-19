@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<span style="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&border_color=ffffff)
+![My stats](https://github-readme-stats.vercel.app/api?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&icon_color=0000ff&show_icons=true&ring_color=0000ff&rank_icon=github&border_color=ffffff)</span>
+
+
+<!--<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px"/></a>-->
+
 <!--
 **abnersilva021/abnersilva021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
