@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<span style="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&border_color=ffffff)
-![My stats](https://github-readme-stats.vercel.app/api?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&icon_color=0000ff&show_icons=true&ring_color=0000ff&rank_icon=github&border_color=ffffff)</span>
+<span style="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&border_color=ffffff&locale=pt-br)
+![My stats](https://github-readme-stats.vercel.app/api?username=abnersilva021&title_color=0000ff&text_color=ffffff&bg_color=90,ff00ff,000000&icon_color=0000ff&show_icons=true&ring_color=0000ff&rank_icon=github&border_color=ffffff&locale=pt-br)</span>
 
 
 <!--<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px"/></a>-->
